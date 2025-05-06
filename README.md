@@ -4,7 +4,7 @@
 This is a simple and fun memory matching card game where players must match pairs of cards. Each card is initially facedown, and the player flips two cards at a time to find matching pairs. The game is complete when all pairs are matched. The goal is to complete the game in as few moves as possible.
 
 ## Live Website:
-You can play the game live by clicking [here](https://github.com/anushkaapoddar/MemoryCard/)
+You can play the game live by clicking [here]( https://anushkaapoddar.github.io/MemoryCard/)
 
 ## Features:
 - 16 cards in total, arranged randomly with 8 pairs of emojis.
